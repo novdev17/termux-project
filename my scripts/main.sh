@@ -31,7 +31,7 @@ read -p "Pilih menu: " pilihan
 
 case $pilihan in
     1)
-        echo -e "${yellow}Hello, Selamat datang di project kamu!${nc}"
+        echo -e "${yellow}Hello, Selamat datang di project kamu! 😎${nc}"
         ;;
 
     2)
